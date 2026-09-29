@@ -1,0 +1,597 @@
+﻿id_jogo,rodada,data,time,adversario,gols_pro,gols_pro_1t,gols_pro_2t,gols_contra,gols_contra_1t,gols_contra_2t,mando,resultado,pontos,pontos_acumulados
+15525989,1,2026-03-22 18:00:00,América Mineiro,Goiás,1,0,1,3,2,1,Fora,D,0,0
+15525997,2,2026-04-01 18:00:00,América Mineiro,Botafogo-SP,1,1,0,2,1,1,Casa,D,0,0
+15526007,3,2026-04-05 20:00:00,América Mineiro,Athletic Club,1,0,1,1,1,0,Fora,E,1,1
+15526017,4,2026-04-12 18:00:00,América Mineiro,Grêmio Novorizontino,0,0,0,3,0,3,Casa,D,0,1
+15526027,5,2026-04-18 18:00:00,América Mineiro,Sport Recife,0,0,0,0,0,0,Casa,E,1,2
+15526035,6,2026-04-24 20:00:00,América Mineiro,Ponte Preta,0,0,0,1,1,0,Fora,D,0,2
+15526049,7,2026-05-03 20:30:00,América Mineiro,CRB,1,1,0,2,1,1,Casa,D,0,2
+15526083,8,2026-05-10 16:00:00,América Mineiro,Náutico,0,0,0,4,2,2,Fora,D,0,2
+15526087,9,2026-05-16 16:00:00,América Mineiro,São Bernardo,1,1,0,1,0,1,Fora,E,1,3
+15526099,10,2026-05-24 18:30:00,América Mineiro,Vila Nova FC,1,1,0,2,0,2,Casa,D,0,3
+15526116,11,2026-05-29 21:00:00,América Mineiro,Juventude,0,0,0,3,1,2,Fora,D,0,3
+15526119,12,2026-06-08 20:00:00,América Mineiro,Atlético Goianiense,1,1,0,2,1,1,Casa,D,0,3
+15526132,13,2026-06-16 20:00:00,América Mineiro,Fortaleza,3,2,1,0,0,0,Fora,V,3,6
+15526140,14,2026-06-23 20:00:00,América Mineiro,Criciúma,0,0,0,1,1,0,Casa,D,0,6
+15526151,15,2026-06-27 11:00:00,América Mineiro,Operário-PR,0,0,0,1,0,1,Fora,D,0,6
+15526166,16,2026-07-02 20:00:00,América Mineiro,Cuiabá,0,0,0,1,0,1,Fora,D,0,6
+15526170,17,2026-07-13 19:00:00,América Mineiro,Londrina,1,1,0,1,0,1,Casa,E,1,7
+15526180,18,2026-07-17 19:00:00,América Mineiro,Ceará,1,0,1,1,0,1,Casa,E,1,8
+15526194,19,2026-07-21 19:30:00,América Mineiro,Avaí,1,1,0,2,0,2,Fora,D,0,8
+15526200,20,2026-07-26 18:30:00,América Mineiro,Goiás,1,0,1,0,0,0,Casa,V,3,11
+15526208,21,2026-08-08 18:30:00,América Mineiro,Botafogo-SP,1,0,1,2,0,2,Fora,D,0,11
+15526220,22,2026-08-16 18:30:00,América Mineiro,Athletic Club,1,0,1,3,1,2,Casa,D,0,11
+15526229,23,2026-08-20 20:30:00,América Mineiro,Grêmio Novorizontino,0,0,0,3,1,2,Fora,D,0,11
+15526245,24,2026-08-24 19:30:00,América Mineiro,Sport Recife,0,0,0,3,2,1,Fora,D,0,11
+15526250,25,2026-08-30 16:00:00,América Mineiro,Ponte Preta,2,0,2,0,0,0,Casa,V,3,14
+15526266,26,2026-09-04 21:30:00,América Mineiro,CRB,1,0,1,3,1,2,Fora,D,0,14
+15526270,27,2026-09-09 20:30:00,América Mineiro,Náutico,2,2,0,1,0,1,Casa,V,3,17
+15526280,28,2026-09-14 19:30:00,América Mineiro,São Bernardo,0,0,0,2,0,2,Casa,D,0,17
+15526297,29,2026-09-18 19:30:00,América Mineiro,Vila Nova FC,0,0,0,1,1,0,Fora,D,0,17
+15525986,1,2026-03-22 18:00:00,Athletic Club,Ponte Preta,2,2,0,1,1,0,Casa,V,3,3
+15526001,2,2026-04-01 21:30:00,Athletic Club,Criciúma,1,1,0,1,0,1,Fora,E,1,4
+15526007,3,2026-04-05 20:00:00,Athletic Club,América Mineiro,1,1,0,1,0,1,Casa,E,1,5
+15526023,4,2026-04-12 20:00:00,Athletic Club,CRB,3,0,3,2,2,0,Fora,V,3,8
+15526026,5,2026-04-19 20:00:00,Athletic Club,Grêmio Novorizontino,1,1,0,2,1,1,Fora,D,0,8
+16023898,6,2026-04-27 19:00:00,Athletic Club,Náutico,0,0,0,1,0,1,Casa,D,0,8
+15526074,7,2026-05-04 19:00:00,Athletic Club,Vila Nova FC,1,0,1,1,0,1,Fora,E,1,9
+15526078,8,2026-05-09 18:00:00,Athletic Club,Cuiabá,0,0,0,0,0,0,Casa,E,1,10
+15526088,9,2026-05-17 16:00:00,Athletic Club,Juventude,1,1,0,1,0,1,Casa,E,1,11
+15526097,10,2026-05-25 19:00:00,Athletic Club,Botafogo-SP,2,1,1,1,0,1,Fora,V,3,14
+15526109,11,2026-05-30 18:00:00,Athletic Club,Fortaleza,1,0,1,0,0,0,Casa,V,3,17
+15526118,12,2026-06-10 21:00:00,Athletic Club,Sport Recife,1,0,1,1,0,1,Fora,E,1,18
+15526129,13,2026-06-14 16:00:00,Athletic Club,Goiás,1,0,1,1,1,0,Casa,E,1,19
+15526141,14,2026-06-20 11:00:00,Athletic Club,Londrina,0,0,0,2,0,2,Fora,D,0,19
+15526150,15,2026-06-28 16:00:00,Athletic Club,Avaí,1,0,1,0,0,0,Casa,V,3,22
+15526160,16,2026-07-07 20:00:00,Athletic Club,Operário-PR,0,0,0,1,0,1,Casa,D,0,22
+15526172,17,2026-07-13 20:30:00,Athletic Club,Ceará,0,0,0,0,0,0,Fora,E,1,23
+15526183,18,2026-07-18 18:00:00,Athletic Club,Atlético Goianiense,0,0,0,0,0,0,Fora,E,1,24
+15526190,19,2026-07-23 19:30:00,Athletic Club,São Bernardo,2,1,1,1,1,0,Casa,V,3,27
+15526198,20,2026-07-28 19:30:00,Athletic Club,Ponte Preta,1,0,1,1,1,0,Fora,E,1,28
+15526210,21,2026-08-09 11:00:00,Athletic Club,Criciúma,2,1,1,0,0,0,Casa,V,3,31
+15526220,22,2026-08-16 18:30:00,Athletic Club,América Mineiro,3,1,2,1,0,1,Fora,V,3,34
+15526230,23,2026-08-20 19:30:00,Athletic Club,CRB,0,0,0,2,1,1,Casa,D,0,34
+15526240,24,2026-08-24 19:30:00,Athletic Club,Grêmio Novorizontino,1,0,1,4,1,3,Casa,D,0,34
+15526255,25,2026-08-28 20:30:00,Athletic Club,Náutico,1,1,0,2,0,2,Fora,D,0,34
+15526260,26,2026-09-04 20:30:00,Athletic Club,Vila Nova FC,5,3,2,0,0,0,Casa,V,3,37
+15526276,27,2026-09-08 20:30:00,Athletic Club,Cuiabá,0,0,0,3,1,2,Fora,D,0,37
+15526287,28,2026-09-13 18:00:00,Athletic Club,Juventude,2,0,2,0,0,0,Fora,V,3,40
+15526290,29,2026-09-19 18:30:00,Athletic Club,Botafogo-SP,1,1,0,1,1,0,Casa,E,1,41
+15526302,30,2026-09-27 18:30:00,Athletic Club,Fortaleza,2,1,1,2,1,1,Fora,E,1,42
+15525987,1,2026-03-21 18:15:00,Atlético Goianiense,Operário-PR,0,0,0,1,1,0,Fora,D,0,0
+15526000,2,2026-04-01 19:00:00,Atlético Goianiense,Náutico,1,1,0,2,0,2,Casa,D,0,0
+15526014,3,2026-04-04 20:00:00,Atlético Goianiense,Vila Nova FC,1,1,0,2,0,2,Fora,D,0,0
+15526020,4,2026-04-12 20:30:00,Atlético Goianiense,Londrina,2,1,1,1,0,1,Casa,V,3,3
+15526025,5,2026-04-19 16:00:00,Atlético Goianiense,Botafogo-SP,1,1,0,1,1,0,Fora,E,1,4
+15526041,6,2026-04-26 20:30:00,Atlético Goianiense,Avaí,2,1,1,1,0,1,Casa,V,3,7
+15526052,7,2026-05-03 18:30:00,Atlético Goianiense,Juventude,0,0,0,0,0,0,Casa,E,1,8
+15526080,8,2026-05-09 19:00:00,Atlético Goianiense,Ceará,1,1,0,0,0,0,Fora,V,3,11
+15526092,9,2026-05-17 18:30:00,Atlético Goianiense,Criciúma,1,0,1,1,0,1,Fora,E,1,12
+15526102,10,2026-05-24 16:00:00,Atlético Goianiense,São Bernardo,0,0,0,1,0,1,Casa,D,0,12
+15526112,11,2026-05-30 16:00:00,Atlético Goianiense,Goiás,1,0,1,1,0,1,Casa,E,1,13
+15526119,12,2026-06-08 20:00:00,Atlético Goianiense,América Mineiro,2,1,1,1,1,0,Fora,V,3,16
+15526133,13,2026-06-12 19:00:00,Atlético Goianiense,CRB,3,0,3,3,3,0,Casa,E,1,17
+15526145,14,2026-06-18 21:00:00,Atlético Goianiense,Sport Recife,1,0,1,1,1,0,Fora,E,1,18
+15526153,15,2026-06-28 16:00:00,Atlético Goianiense,Ponte Preta,2,2,0,0,0,0,Casa,V,3,21
+15526159,16,2026-07-04 16:00:00,Atlético Goianiense,Grêmio Novorizontino,0,0,0,3,1,2,Fora,D,0,21
+15526173,17,2026-07-12 18:00:00,Atlético Goianiense,Fortaleza,1,1,0,0,0,0,Casa,V,3,24
+15526183,18,2026-07-18 18:00:00,Atlético Goianiense,Athletic Club,0,0,0,0,0,0,Casa,E,1,25
+15526196,19,2026-07-23 20:30:00,Atlético Goianiense,Cuiabá,1,0,1,0,0,0,Fora,V,3,28
+16477939,20,2026-07-27 19:30:00,Atlético Goianiense,Operário-PR,3,2,1,1,1,0,Casa,V,3,31
+15526215,21,2026-08-09 16:00:00,Atlético Goianiense,Náutico,1,0,1,1,1,0,Fora,E,1,32
+15526223,22,2026-08-15 16:00:00,Atlético Goianiense,Vila Nova FC,0,0,0,2,1,1,Casa,D,0,32
+15526231,23,2026-08-18 19:30:00,Atlético Goianiense,Londrina,0,0,0,0,0,0,Fora,E,1,33
+15526243,24,2026-08-25 19:30:00,Atlético Goianiense,Botafogo-SP,3,2,1,0,0,0,Casa,V,3,36
+15526254,25,2026-08-30 16:00:00,Atlético Goianiense,Avaí,1,0,1,0,0,0,Fora,V,3,39
+15526267,26,2026-09-05 18:00:00,Atlético Goianiense,Juventude,2,1,1,2,2,0,Fora,E,1,40
+15526273,27,2026-09-09 21:30:00,Atlético Goianiense,Ceará,2,2,0,1,1,0,Casa,V,3,43
+15526283,28,2026-09-13 16:00:00,Atlético Goianiense,Criciúma,4,2,2,0,0,0,Casa,V,3,46
+15526289,29,2026-09-18 21:00:00,Atlético Goianiense,São Bernardo,0,0,0,1,0,1,Fora,D,0,46
+15526303,30,2026-09-26 18:30:00,Atlético Goianiense,Goiás,1,1,0,0,0,0,Fora,V,3,49
+15525991,1,2026-03-22 16:00:00,Avaí,Juventude,2,1,1,0,0,0,Casa,V,3,3
+15526003,2,2026-04-01 21:30:00,Avaí,CRB,1,0,1,0,0,0,Fora,V,3,6
+15526011,3,2026-04-05 16:00:00,Avaí,Operário-PR,0,0,0,0,0,0,Casa,E,1,7
+15526022,4,2026-04-11 18:00:00,Avaí,Sport Recife,2,1,1,2,1,1,Fora,E,1,8
+15526031,5,2026-04-18 20:30:00,Avaí,Ponte Preta,1,1,0,2,1,1,Casa,D,0,8
+15526041,6,2026-04-26 20:30:00,Avaí,Atlético Goianiense,1,0,1,2,1,1,Fora,D,0,8
+15526057,7,2026-05-03 20:30:00,Avaí,Grêmio Novorizontino,3,1,2,3,0,3,Casa,E,1,9
+15526082,8,2026-05-10 18:30:00,Avaí,Fortaleza,0,0,0,0,0,0,Casa,E,1,10
+15526095,9,2026-05-17 18:00:00,Avaí,Vila Nova FC,0,0,0,2,2,0,Fora,D,0,10
+15526103,10,2026-05-24 19:00:00,Avaí,Goiás,0,0,0,2,0,2,Casa,D,0,10
+15526113,11,2026-05-30 16:00:00,Avaí,Criciúma,1,0,1,2,1,1,Casa,D,0,10
+15526121,12,2026-06-10 20:00:00,Avaí,Ceará,1,0,1,2,2,0,Fora,D,0,10
+15526130,13,2026-06-15 21:00:00,Avaí,Londrina,2,1,1,3,1,2,Fora,D,0,10
+15526144,14,2026-06-21 11:00:00,Avaí,Cuiabá,1,1,0,0,0,0,Casa,V,3,13
+15526150,15,2026-06-28 16:00:00,Avaí,Athletic Club,0,0,0,1,0,1,Fora,D,0,13
+15526158,16,2026-07-06 19:00:00,Avaí,Botafogo-SP,1,0,1,3,1,2,Fora,D,0,13
+15526174,17,2026-07-12 16:00:00,Avaí,Náutico,2,1,1,0,0,0,Casa,V,3,16
+15526179,18,2026-07-17 19:00:00,Avaí,São Bernardo,1,0,1,1,1,0,Fora,E,1,17
+15526194,19,2026-07-21 19:30:00,Avaí,América Mineiro,2,0,2,1,1,0,Casa,V,3,20
+15526207,20,2026-07-28 19:30:00,Avaí,Juventude,0,0,0,1,0,1,Fora,D,0,20
+15526214,21,2026-08-11 19:30:00,Avaí,CRB,0,0,0,1,1,0,Casa,D,0,20
+15526221,22,2026-08-16 11:00:00,Avaí,Operário-PR,2,0,2,1,0,1,Fora,V,3,23
+15526234,23,2026-08-19 19:30:00,Avaí,Sport Recife,2,0,2,1,0,1,Casa,V,3,26
+15526238,24,2026-08-23 16:00:00,Avaí,Ponte Preta,2,0,2,0,0,0,Fora,V,3,29
+15526254,25,2026-08-30 16:00:00,Avaí,Atlético Goianiense,0,0,0,1,0,1,Casa,D,0,29
+15526259,26,2026-09-05 16:00:00,Avaí,Grêmio Novorizontino,1,1,0,3,3,0,Fora,D,0,29
+15526272,27,2026-09-09 19:30:00,Avaí,Fortaleza,0,0,0,1,0,1,Fora,D,0,29
+15526284,28,2026-09-14 21:30:00,Avaí,Vila Nova FC,1,1,0,1,1,0,Casa,E,1,30
+15526293,29,2026-09-20 16:00:00,Avaí,Goiás,1,1,0,2,0,2,Fora,D,0,30
+15526304,30,2026-09-27 11:00:00,Avaí,Criciúma,0,0,0,3,0,3,Fora,D,0,30
+15525984,1,2026-03-21 19:15:00,Botafogo-SP,Fortaleza,4,3,1,0,0,0,Casa,V,3,3
+15525997,2,2026-04-01 18:00:00,Botafogo-SP,América Mineiro,2,1,1,1,1,0,Fora,V,3,6
+15526005,3,2026-04-05 20:30:00,Botafogo-SP,São Bernardo,1,1,0,2,0,2,Casa,D,0,6
+15526021,4,2026-04-10 20:30:00,Botafogo-SP,Criciúma,0,0,0,1,0,1,Fora,D,0,6
+15526025,5,2026-04-19 16:00:00,Botafogo-SP,Atlético Goianiense,1,1,0,1,1,0,Casa,E,1,7
+15526044,6,2026-04-22 21:30:00,Botafogo-SP,Cuiabá,1,0,1,1,0,1,Fora,E,1,8
+15526047,7,2026-05-02 16:00:00,Botafogo-SP,Náutico,1,1,0,1,0,1,Casa,E,1,9
+15526076,8,2026-05-10 19:30:00,Botafogo-SP,Grêmio Novorizontino,0,0,0,1,0,1,Fora,D,0,9
+15526091,9,2026-05-16 18:30:00,Botafogo-SP,Goiás,0,0,0,1,0,1,Fora,D,0,9
+15526097,10,2026-05-25 19:00:00,Botafogo-SP,Athletic Club,1,0,1,2,1,1,Casa,D,0,9
+15526107,11,2026-06-01 19:00:00,Botafogo-SP,Ponte Preta,0,0,0,0,0,0,Fora,E,1,10
+15526126,12,2026-06-08 20:00:00,Botafogo-SP,Vila Nova FC,0,0,0,1,1,0,Fora,D,0,10
+15526127,13,2026-06-14 19:00:00,Botafogo-SP,Operário-PR,2,0,2,1,1,0,Casa,V,3,13
+15526142,14,2026-06-20 19:00:00,Botafogo-SP,Ceará,1,0,1,0,0,0,Fora,V,3,16
+15526148,15,2026-06-30 20:00:00,Botafogo-SP,CRB,0,0,0,1,1,0,Casa,D,0,16
+15526158,16,2026-07-06 19:00:00,Botafogo-SP,Avaí,3,1,2,1,0,1,Casa,V,3,19
+15526175,17,2026-07-10 20:00:00,Botafogo-SP,Sport Recife,3,2,1,3,0,3,Fora,E,1,20
+15526181,18,2026-07-17 21:00:00,Botafogo-SP,Londrina,0,0,0,0,0,0,Fora,E,1,21
+15526188,19,2026-07-23 21:30:00,Botafogo-SP,Juventude,4,2,2,2,0,2,Casa,V,3,24
+15526202,20,2026-07-28 21:35:00,Botafogo-SP,Fortaleza,0,0,0,1,0,1,Fora,D,0,24
+15526208,21,2026-08-08 18:30:00,Botafogo-SP,América Mineiro,2,0,2,1,0,1,Casa,V,3,27
+15526219,22,2026-08-14 19:30:00,Botafogo-SP,São Bernardo,1,0,1,0,0,0,Fora,V,3,30
+15526228,23,2026-08-19 21:30:00,Botafogo-SP,Criciúma,1,0,1,1,0,1,Casa,E,1,31
+15526243,24,2026-08-25 19:30:00,Botafogo-SP,Atlético Goianiense,0,0,0,3,2,1,Fora,D,0,31
+15526248,25,2026-08-29 18:30:00,Botafogo-SP,Cuiabá,1,0,1,2,0,2,Casa,D,0,31
+15526265,26,2026-09-03 20:00:00,Botafogo-SP,Náutico,0,0,0,1,0,1,Fora,D,0,31
+15526268,27,2026-09-09 19:30:00,Botafogo-SP,Grêmio Novorizontino,1,1,0,3,1,2,Casa,D,0,31
+15526278,28,2026-09-14 19:30:00,Botafogo-SP,Goiás,1,1,0,3,1,2,Casa,D,0,31
+15526290,29,2026-09-19 18:30:00,Botafogo-SP,Athletic Club,1,1,0,1,1,0,Fora,E,1,32
+15525994,1,2026-03-21 17:00:00,CRB,Vila Nova FC,2,1,1,2,0,2,Fora,E,1,1
+15526003,2,2026-04-01 21:30:00,CRB,Avaí,0,0,0,1,0,1,Casa,D,0,1
+15526006,3,2026-04-05 18:00:00,CRB,Grêmio Novorizontino,1,0,1,1,0,1,Fora,E,1,2
+15526023,4,2026-04-12 20:00:00,CRB,Athletic Club,2,2,0,3,0,3,Casa,D,0,2
+15526033,5,2026-04-18 20:45:00,CRB,Juventude,0,0,0,1,1,0,Casa,D,0,2
+15526042,6,2026-04-26 20:30:00,CRB,Criciúma,1,0,1,3,2,1,Fora,D,0,2
+15526049,7,2026-05-03 20:30:00,CRB,América Mineiro,2,1,1,1,1,0,Fora,V,3,5
+15526084,8,2026-05-09 20:30:00,CRB,Operário-PR,3,2,1,0,0,0,Casa,V,3,8
+15526093,9,2026-05-17 20:30:00,CRB,Sport Recife,2,1,1,1,0,1,Fora,V,3,11
+15526105,10,2026-05-24 16:30:00,CRB,Ponte Preta,4,1,3,2,2,0,Casa,V,3,14
+15526115,11,2026-05-31 20:30:00,CRB,Cuiabá,0,0,0,2,2,0,Fora,D,0,14
+15526125,12,2026-06-07 16:00:00,CRB,São Bernardo,2,1,1,3,1,2,Casa,D,0,14
+15526133,13,2026-06-12 19:00:00,CRB,Atlético Goianiense,3,3,0,3,0,3,Fora,E,1,15
+15526146,14,2026-06-21 16:00:00,CRB,Fortaleza,1,1,0,1,0,1,Casa,E,1,16
+15526148,15,2026-06-30 20:00:00,CRB,Botafogo-SP,1,1,0,0,0,0,Fora,V,3,19
+15526161,16,2026-07-04 16:00:00,CRB,Londrina,0,0,0,5,2,3,Fora,D,0,19
+15526176,17,2026-07-12 19:00:00,CRB,Goiás,2,0,2,2,2,0,Casa,E,1,20
+15526186,18,2026-07-16 20:00:00,CRB,Náutico,2,1,1,1,0,1,Casa,V,3,23
+15526192,19,2026-07-22 19:30:00,CRB,Ceará,1,1,0,0,0,0,Fora,V,3,26
+15526206,20,2026-07-27 19:30:00,CRB,Vila Nova FC,2,2,0,0,0,0,Casa,V,3,29
+15526214,21,2026-08-11 19:30:00,CRB,Avaí,1,1,0,0,0,0,Fora,V,3,32
+15526226,22,2026-08-16 18:30:00,CRB,Grêmio Novorizontino,0,0,0,0,0,0,Casa,E,1,33
+15526230,23,2026-08-20 19:30:00,CRB,Athletic Club,2,1,1,0,0,0,Fora,V,3,36
+15526247,24,2026-08-25 19:30:00,CRB,Juventude,1,1,0,2,0,2,Fora,D,0,36
+15526256,25,2026-08-30 18:00:00,CRB,Criciúma,2,1,1,1,1,0,Casa,V,3,39
+15526266,26,2026-09-04 21:30:00,CRB,América Mineiro,3,1,2,1,0,1,Casa,V,3,42
+15526271,27,2026-09-09 20:30:00,CRB,Operário-PR,0,0,0,3,2,1,Fora,D,0,42
+15526286,28,2026-09-15 21:00:00,CRB,Sport Recife,2,1,1,1,0,1,Casa,V,3,45
+15526288,29,2026-09-20 11:00:00,CRB,Ponte Preta,0,0,0,1,1,0,Fora,D,0,45
+15526306,30,2026-09-27 16:00:00,CRB,Cuiabá,3,1,2,0,0,0,Casa,V,3,48
+15525988,1,2026-03-21 18:00:00,Ceará,São Bernardo,1,1,0,1,0,1,Casa,E,1,1
+15525995,2,2026-04-01 21:00:00,Ceará,Ponte Preta,1,0,1,1,0,1,Fora,E,1,2
+15526013,3,2026-04-04 18:00:00,Ceará,Cuiabá,2,0,2,0,0,0,Fora,V,3,5
+15526019,4,2026-04-11 20:30:00,Ceará,Náutico,1,0,1,0,0,0,Casa,V,3,8
+15526028,5,2026-04-19 16:00:00,Ceará,Londrina,0,0,0,0,0,0,Fora,E,1,9
+15526040,6,2026-04-26 18:00:00,Ceará,Vila Nova FC,3,3,0,3,1,2,Casa,E,1,10
+15526072,7,2026-05-03 18:00:00,Ceará,Sport Recife,0,0,0,2,0,2,Fora,D,0,10
+15526080,8,2026-05-09 19:00:00,Ceará,Atlético Goianiense,0,0,0,1,1,0,Casa,D,0,10
+15526090,9,2026-05-17 18:30:00,Ceará,Fortaleza,2,0,2,1,1,0,Casa,V,3,13
+15526098,10,2026-05-23 16:00:00,Ceará,Grêmio Novorizontino,1,1,0,2,1,1,Fora,D,0,13
+15526111,11,2026-05-31 16:00:00,Ceará,Operário-PR,1,1,0,2,0,2,Casa,D,0,13
+15526121,12,2026-06-10 20:00:00,Ceará,Avaí,2,2,0,1,0,1,Casa,V,3,16
+15526134,13,2026-06-15 21:00:00,Ceará,Criciúma,1,0,1,1,1,0,Fora,E,1,17
+15526142,14,2026-06-20 19:00:00,Ceará,Botafogo-SP,0,0,0,1,0,1,Casa,D,0,17
+15526157,15,2026-06-28 16:00:00,Ceará,Juventude,0,0,0,2,2,0,Fora,D,0,17
+15526163,16,2026-07-04 20:00:00,Ceará,Goiás,0,0,0,2,1,1,Fora,D,0,17
+15526172,17,2026-07-13 20:30:00,Ceará,Athletic Club,0,0,0,0,0,0,Casa,E,1,18
+15526180,18,2026-07-17 19:00:00,Ceará,América Mineiro,1,0,1,1,0,1,Fora,E,1,19
+15526192,19,2026-07-22 19:30:00,Ceará,CRB,0,0,0,1,1,0,Casa,D,0,19
+15526199,20,2026-07-26 16:00:00,Ceará,São Bernardo,4,0,4,3,1,2,Fora,V,3,22
+15526212,21,2026-08-07 20:30:00,Ceará,Ponte Preta,2,1,1,0,0,0,Casa,V,3,25
+15526222,22,2026-08-15 16:00:00,Ceará,Cuiabá,1,0,1,3,1,2,Casa,D,0,25
+15526235,23,2026-08-18 21:30:00,Ceará,Náutico,0,0,0,1,1,0,Fora,D,0,25
+15526242,24,2026-08-22 18:00:00,Ceará,Londrina,2,1,1,1,1,0,Casa,V,3,28
+15526257,25,2026-08-30 18:30:00,Ceará,Vila Nova FC,0,0,0,2,1,1,Fora,D,0,28
+15526262,26,2026-09-05 18:30:00,Ceará,Sport Recife,2,0,2,1,0,1,Casa,V,3,31
+15526273,27,2026-09-09 21:30:00,Ceará,Atlético Goianiense,1,1,0,2,2,0,Fora,D,0,31
+15526282,28,2026-09-13 18:30:00,Ceará,Fortaleza,1,0,1,1,1,0,Fora,E,1,32
+15526292,29,2026-09-18 20:30:00,Ceará,Grêmio Novorizontino,2,0,2,1,1,0,Casa,V,3,35
+15526301,30,2026-09-26 16:30:00,Ceará,Operário-PR,2,0,2,2,1,1,Fora,E,1,36
+15525992,1,2026-03-22 16:00:00,Criciúma,Náutico,1,1,0,0,0,0,Fora,V,3,3
+15526001,2,2026-04-01 21:30:00,Criciúma,Athletic Club,1,0,1,1,1,0,Casa,E,1,4
+15526010,3,2026-04-06 21:00:00,Criciúma,Goiás,0,0,0,1,0,1,Fora,D,0,4
+15526021,4,2026-04-10 20:30:00,Criciúma,Botafogo-SP,1,0,1,0,0,0,Casa,V,3,7
+15526029,5,2026-04-19 20:00:00,Criciúma,Fortaleza,2,1,1,3,2,1,Fora,D,0,7
+15526042,6,2026-04-26 20:30:00,Criciúma,CRB,3,2,1,1,0,1,Casa,V,3,10
+15526073,7,2026-05-02 18:30:00,Criciúma,Cuiabá,1,0,1,1,1,0,Fora,E,1,11
+15526085,8,2026-05-09 21:15:00,Criciúma,Juventude,0,0,0,0,0,0,Fora,E,1,12
+15526092,9,2026-05-17 18:30:00,Criciúma,Atlético Goianiense,1,0,1,1,0,1,Casa,E,1,13
+15526100,10,2026-05-24 20:30:00,Criciúma,Operário-PR,1,0,1,1,0,1,Fora,E,1,14
+15526113,11,2026-05-30 16:00:00,Criciúma,Avaí,2,1,1,1,0,1,Fora,V,3,17
+15526123,12,2026-06-06 11:00:00,Criciúma,Londrina,1,1,0,0,0,0,Casa,V,3,20
+15526134,13,2026-06-15 21:00:00,Criciúma,Ceará,1,1,0,1,0,1,Casa,E,1,21
+15526140,14,2026-06-23 20:00:00,Criciúma,América Mineiro,1,1,0,0,0,0,Fora,V,3,24
+15526154,15,2026-06-27 16:00:00,Criciúma,São Bernardo,1,1,0,0,0,0,Casa,V,3,27
+15526164,16,2026-07-04 16:00:00,Criciúma,Sport Recife,1,1,0,0,0,0,Casa,V,3,30
+15526168,17,2026-07-08 20:00:00,Criciúma,Ponte Preta,2,1,1,1,0,1,Fora,V,3,33
+15526184,18,2026-07-18 16:00:00,Criciúma,Vila Nova FC,2,1,1,0,0,0,Casa,V,3,36
+15526189,19,2026-07-21 19:30:00,Criciúma,Grêmio Novorizontino,1,0,1,0,0,0,Fora,V,3,39
+15526204,20,2026-07-26 16:00:00,Criciúma,Náutico,0,0,0,0,0,0,Casa,E,1,40
+15526210,21,2026-08-09 11:00:00,Criciúma,Athletic Club,0,0,0,2,1,1,Fora,D,0,40
+15526224,22,2026-08-15 16:00:00,Criciúma,Goiás,1,1,0,0,0,0,Casa,V,3,43
+15526228,23,2026-08-19 21:30:00,Criciúma,Botafogo-SP,1,0,1,1,0,1,Fora,E,1,44
+15526244,24,2026-08-23 18:30:00,Criciúma,Fortaleza,0,0,0,2,1,1,Casa,D,0,44
+15526256,25,2026-08-30 18:00:00,Criciúma,CRB,1,1,0,2,1,1,Fora,D,0,44
+15526264,26,2026-09-04 19:30:00,Criciúma,Cuiabá,2,1,1,0,0,0,Casa,V,3,47
+15526274,27,2026-09-08 21:00:00,Criciúma,Juventude,0,0,0,2,0,2,Casa,D,0,47
+15526283,28,2026-09-13 16:00:00,Criciúma,Atlético Goianiense,0,0,0,4,2,2,Fora,D,0,47
+15526294,29,2026-09-22 19:30:00,Criciúma,Operário-PR,0,0,0,2,1,1,Casa,D,0,47
+15526304,30,2026-09-27 11:00:00,Criciúma,Avaí,3,0,3,0,0,0,Casa,V,3,50
+15525993,1,2026-03-21 20:30:00,Cuiabá,Sport Recife,0,0,0,0,0,0,Casa,E,1,1
+15525999,2,2026-03-31 19:00:00,Cuiabá,Fortaleza,0,0,0,0,0,0,Fora,E,1,2
+15526013,3,2026-04-04 18:00:00,Cuiabá,Ceará,0,0,0,2,0,2,Casa,D,0,2
+15526018,4,2026-04-12 18:00:00,Cuiabá,Operário-PR,0,0,0,0,0,0,Fora,E,1,3
+15526030,5,2026-04-19 18:00:00,Cuiabá,Goiás,2,0,2,0,0,0,Fora,V,3,6
+15526044,6,2026-04-22 21:30:00,Cuiabá,Botafogo-SP,1,0,1,1,0,1,Casa,E,1,7
+15526073,7,2026-05-02 18:30:00,Cuiabá,Criciúma,1,1,0,1,0,1,Casa,E,1,8
+15526078,8,2026-05-09 18:00:00,Cuiabá,Athletic Club,0,0,0,0,0,0,Fora,E,1,9
+15526094,9,2026-05-16 20:30:00,Cuiabá,Grêmio Novorizontino,0,0,0,0,0,0,Casa,E,1,10
+15526104,10,2026-05-22 19:00:00,Cuiabá,Náutico,0,0,0,1,0,1,Fora,D,0,10
+15526115,11,2026-05-31 20:30:00,Cuiabá,CRB,2,2,0,0,0,0,Casa,V,3,13
+15526117,12,2026-06-09 19:00:00,Cuiabá,Ponte Preta,2,1,1,1,1,0,Fora,V,3,16
+15526136,13,2026-06-14 17:00:00,Cuiabá,Vila Nova FC,1,0,1,0,0,0,Casa,V,3,19
+15526144,14,2026-06-21 11:00:00,Cuiabá,Avaí,0,0,0,1,1,0,Fora,D,0,19
+15526156,15,2026-06-25 20:30:00,Cuiabá,Londrina,2,0,2,2,2,0,Casa,E,1,20
+15526166,16,2026-07-02 20:00:00,Cuiabá,América Mineiro,1,0,1,0,0,0,Casa,V,3,23
+15526169,17,2026-07-12 16:00:00,Cuiabá,São Bernardo,2,2,0,2,2,0,Fora,E,1,24
+15526187,18,2026-07-17 19:00:00,Cuiabá,Juventude,0,0,0,2,1,1,Fora,D,0,24
+15526196,19,2026-07-23 20:30:00,Cuiabá,Atlético Goianiense,0,0,0,1,0,1,Casa,D,0,24
+15526205,20,2026-07-27 19:30:00,Cuiabá,Sport Recife,1,0,1,1,0,1,Fora,E,1,25
+15526216,21,2026-08-09 18:00:00,Cuiabá,Fortaleza,1,1,0,1,0,1,Casa,E,1,26
+15526222,22,2026-08-15 16:00:00,Cuiabá,Ceará,3,1,2,1,0,1,Fora,V,3,29
+15526236,23,2026-08-19 20:30:00,Cuiabá,Operário-PR,1,0,1,0,0,0,Casa,V,3,32
+15526246,24,2026-08-22 18:30:00,Cuiabá,Goiás,1,0,1,1,1,0,Casa,E,1,33
+15526248,25,2026-08-29 18:30:00,Cuiabá,Botafogo-SP,2,0,2,1,0,1,Fora,V,3,36
+15526264,26,2026-09-04 19:30:00,Cuiabá,Criciúma,0,0,0,2,1,1,Fora,D,0,36
+15526276,27,2026-09-08 20:30:00,Cuiabá,Athletic Club,3,1,2,0,0,0,Casa,V,3,39
+15526279,28,2026-09-13 18:30:00,Cuiabá,Grêmio Novorizontino,1,1,0,1,1,0,Fora,E,1,40
+15526296,29,2026-09-21 21:30:00,Cuiabá,Náutico,3,1,2,0,0,0,Casa,V,3,43
+15526306,30,2026-09-27 16:00:00,Cuiabá,CRB,0,0,0,3,1,2,Fora,D,0,43
+15525984,1,2026-03-21 19:15:00,Fortaleza,Botafogo-SP,0,0,0,4,3,1,Fora,D,0,0
+15525999,2,2026-03-31 19:00:00,Fortaleza,Cuiabá,0,0,0,0,0,0,Casa,E,1,1
+15526009,3,2026-04-04 16:00:00,Fortaleza,Juventude,2,2,0,1,0,1,Casa,V,3,4
+15526016,4,2026-04-12 18:00:00,Fortaleza,São Bernardo,1,0,1,0,0,0,Fora,V,3,7
+15526029,5,2026-04-19 20:00:00,Fortaleza,Criciúma,3,2,1,2,1,1,Casa,V,3,10
+15526039,6,2026-04-26 18:00:00,Fortaleza,Operário-PR,0,0,0,0,0,0,Fora,E,1,11
+15526051,7,2026-05-02 20:30:00,Fortaleza,Goiás,4,0,4,1,1,0,Casa,V,3,14
+15526082,8,2026-05-10 18:30:00,Fortaleza,Avaí,0,0,0,0,0,0,Fora,E,1,15
+15526090,9,2026-05-17 18:30:00,Fortaleza,Ceará,1,1,0,2,0,2,Fora,D,0,15
+15526101,10,2026-05-23 18:30:00,Fortaleza,Londrina,3,1,2,0,0,0,Casa,V,3,18
+15526109,11,2026-05-30 18:00:00,Fortaleza,Athletic Club,0,0,0,1,0,1,Fora,D,0,18
+15526124,12,2026-06-09 19:00:00,Fortaleza,Náutico,1,1,0,0,0,0,Fora,V,3,21
+15526132,13,2026-06-16 20:00:00,Fortaleza,América Mineiro,0,0,0,3,2,1,Casa,D,0,21
+15526146,14,2026-06-21 16:00:00,Fortaleza,CRB,1,0,1,1,1,0,Fora,E,1,22
+15526152,15,2026-06-28 18:30:00,Fortaleza,Sport Recife,2,1,1,1,0,1,Casa,V,3,25
+15526162,16,2026-07-02 21:00:00,Fortaleza,Ponte Preta,2,0,2,0,0,0,Casa,V,3,28
+15526173,17,2026-07-12 18:00:00,Fortaleza,Atlético Goianiense,0,0,0,1,1,0,Fora,D,0,28
+15526182,18,2026-07-17 21:00:00,Fortaleza,Grêmio Novorizontino,1,1,0,0,0,0,Casa,V,3,31
+15526197,19,2026-07-21 21:35:00,Fortaleza,Vila Nova FC,1,0,1,2,2,0,Fora,D,0,31
+15526202,20,2026-07-28 21:35:00,Fortaleza,Botafogo-SP,1,0,1,0,0,0,Casa,V,3,34
+15526216,21,2026-08-09 18:00:00,Fortaleza,Cuiabá,1,0,1,1,1,0,Fora,E,1,35
+15526227,22,2026-08-15 18:30:00,Fortaleza,Juventude,0,0,0,0,0,0,Fora,E,1,36
+15526232,23,2026-08-19 19:30:00,Fortaleza,São Bernardo,1,1,0,1,1,0,Casa,E,1,37
+15526244,24,2026-08-23 18:30:00,Fortaleza,Criciúma,2,1,1,0,0,0,Fora,V,3,40
+15526252,25,2026-08-31 19:30:00,Fortaleza,Operário-PR,1,1,0,1,1,0,Casa,E,1,41
+15526263,26,2026-09-05 16:00:00,Fortaleza,Goiás,1,1,0,0,0,0,Fora,V,3,44
+15526272,27,2026-09-09 19:30:00,Fortaleza,Avaí,1,0,1,0,0,0,Casa,V,3,47
+15526282,28,2026-09-13 18:30:00,Fortaleza,Ceará,1,1,0,1,0,1,Casa,E,1,48
+15526291,29,2026-09-20 18:30:00,Fortaleza,Londrina,2,1,1,1,0,1,Fora,V,3,51
+15526302,30,2026-09-27 18:30:00,Fortaleza,Athletic Club,2,1,1,2,1,1,Casa,E,1,52
+15525989,1,2026-03-22 18:00:00,Goiás,América Mineiro,3,2,1,1,0,1,Casa,V,3,3
+15525998,2,2026-04-01 19:00:00,Goiás,Londrina,2,1,1,2,1,1,Fora,E,1,4
+15526010,3,2026-04-06 21:00:00,Goiás,Criciúma,1,0,1,0,0,0,Casa,V,3,7
+15526024,4,2026-04-11 16:00:00,Goiás,Juventude,0,0,0,2,1,1,Fora,D,0,7
+15526030,5,2026-04-19 18:00:00,Goiás,Cuiabá,0,0,0,2,0,2,Casa,D,0,7
+15526037,6,2026-04-26 16:00:00,Goiás,São Bernardo,0,0,0,1,0,1,Fora,D,0,7
+15526051,7,2026-05-02 20:30:00,Goiás,Fortaleza,1,1,0,4,0,4,Fora,D,0,7
+15526081,8,2026-05-09 16:00:00,Goiás,Vila Nova FC,1,0,1,0,0,0,Casa,V,3,10
+15526091,9,2026-05-16 18:30:00,Goiás,Botafogo-SP,1,0,1,0,0,0,Casa,V,3,13
+15526103,10,2026-05-24 19:00:00,Goiás,Avaí,2,0,2,0,0,0,Fora,V,3,16
+15526112,11,2026-05-30 16:00:00,Goiás,Atlético Goianiense,1,0,1,1,0,1,Fora,E,1,17
+15526122,12,2026-06-10 20:00:00,Goiás,Grêmio Novorizontino,0,0,0,4,1,3,Casa,D,0,17
+15526129,13,2026-06-14 16:00:00,Goiás,Athletic Club,1,1,0,1,0,1,Fora,E,1,18
+16311743,14,2026-06-21 18:30:00,Goiás,Operário-PR,0,0,0,3,3,0,Casa,D,0,18
+15526155,15,2026-06-28 18:30:00,Goiás,Náutico,1,1,0,0,0,0,Fora,V,3,21
+15526163,16,2026-07-04 20:00:00,Goiás,Ceará,2,1,1,0,0,0,Casa,V,3,24
+15526176,17,2026-07-12 19:00:00,Goiás,CRB,2,2,0,2,0,2,Fora,E,1,25
+15526178,18,2026-07-18 16:00:00,Goiás,Ponte Preta,2,2,0,1,1,0,Fora,V,3,28
+15526193,19,2026-07-22 20:30:00,Goiás,Sport Recife,1,0,1,1,1,0,Casa,E,1,29
+15526200,20,2026-07-26 18:30:00,Goiás,América Mineiro,0,0,0,1,0,1,Fora,D,0,29
+15526213,21,2026-08-10 19:30:00,Goiás,Londrina,1,1,0,0,0,0,Casa,V,3,32
+15526224,22,2026-08-15 16:00:00,Goiás,Criciúma,0,0,0,1,1,0,Fora,D,0,32
+15526233,23,2026-08-18 21:35:00,Goiás,Juventude,0,0,0,1,0,1,Casa,D,0,32
+15526246,24,2026-08-22 18:30:00,Goiás,Cuiabá,1,1,0,1,0,1,Fora,E,1,33
+15526253,25,2026-08-28 19:30:00,Goiás,São Bernardo,2,1,1,1,0,1,Casa,V,3,36
+15526263,26,2026-09-05 16:00:00,Goiás,Fortaleza,0,0,0,1,1,0,Casa,D,0,36
+15526277,27,2026-09-10 19:30:00,Goiás,Vila Nova FC,0,0,0,2,0,2,Fora,D,0,36
+15526278,28,2026-09-14 19:30:00,Goiás,Botafogo-SP,3,1,2,1,1,0,Fora,V,3,39
+15526293,29,2026-09-20 16:00:00,Goiás,Avaí,2,0,2,1,1,0,Casa,V,3,42
+15526303,30,2026-09-26 18:30:00,Goiás,Atlético Goianiense,0,0,0,1,1,0,Casa,D,0,42
+15525985,1,2026-03-22 20:00:00,Grêmio Novorizontino,Londrina,1,0,1,3,0,3,Casa,D,0,0
+15526004,2,2026-03-31 18:30:00,Grêmio Novorizontino,Juventude,0,0,0,0,0,0,Fora,E,1,1
+15526006,3,2026-04-05 18:00:00,Grêmio Novorizontino,CRB,1,0,1,1,0,1,Casa,E,1,2
+15526017,4,2026-04-12 18:00:00,Grêmio Novorizontino,América Mineiro,3,0,3,0,0,0,Fora,V,3,5
+15526026,5,2026-04-19 20:00:00,Grêmio Novorizontino,Athletic Club,2,1,1,1,1,0,Casa,V,3,8
+15526043,6,2026-04-25 20:30:00,Grêmio Novorizontino,Sport Recife,0,0,0,1,0,1,Fora,D,0,8
+15526057,7,2026-05-03 20:30:00,Grêmio Novorizontino,Avaí,3,0,3,3,1,2,Fora,E,1,9
+15526076,8,2026-05-10 19:30:00,Grêmio Novorizontino,Botafogo-SP,1,0,1,0,0,0,Casa,V,3,12
+15526094,9,2026-05-16 20:30:00,Grêmio Novorizontino,Cuiabá,0,0,0,0,0,0,Fora,E,1,13
+15526098,10,2026-05-23 16:00:00,Grêmio Novorizontino,Ceará,2,1,1,1,1,0,Casa,V,3,16
+15526108,11,2026-05-31 11:00:00,Grêmio Novorizontino,São Bernardo,1,1,0,1,1,0,Fora,E,1,17
+15526122,12,2026-06-10 20:00:00,Grêmio Novorizontino,Goiás,4,1,3,0,0,0,Fora,V,3,20
+15526135,13,2026-06-14 19:00:00,Grêmio Novorizontino,Náutico,2,0,2,2,1,1,Casa,E,1,21
+15526138,14,2026-06-22 20:00:00,Grêmio Novorizontino,Ponte Preta,2,1,1,0,0,0,Fora,V,3,24
+15526149,15,2026-06-26 19:00:00,Grêmio Novorizontino,Vila Nova FC,2,1,1,1,1,0,Casa,V,3,27
+15526159,16,2026-07-04 16:00:00,Grêmio Novorizontino,Atlético Goianiense,3,1,2,0,0,0,Casa,V,3,30
+15526171,17,2026-07-12 11:00:00,Grêmio Novorizontino,Operário-PR,1,1,0,2,1,1,Fora,D,0,30
+15526182,18,2026-07-17 21:00:00,Grêmio Novorizontino,Fortaleza,0,0,0,1,1,0,Fora,D,0,30
+15526189,19,2026-07-21 19:30:00,Grêmio Novorizontino,Criciúma,0,0,0,1,0,1,Casa,D,0,30
+15526201,20,2026-07-26 18:30:00,Grêmio Novorizontino,Londrina,4,3,1,1,1,0,Fora,V,3,33
+15526209,21,2026-08-09 16:00:00,Grêmio Novorizontino,Juventude,0,0,0,1,0,1,Casa,D,0,33
+15526226,22,2026-08-16 18:30:00,Grêmio Novorizontino,CRB,0,0,0,0,0,0,Fora,E,1,34
+15526229,23,2026-08-20 20:30:00,Grêmio Novorizontino,América Mineiro,3,1,2,0,0,0,Casa,V,3,37
+15526240,24,2026-08-24 19:30:00,Grêmio Novorizontino,Athletic Club,4,1,3,1,0,1,Fora,V,3,40
+15526249,25,2026-08-28 20:30:00,Grêmio Novorizontino,Sport Recife,2,1,1,1,0,1,Casa,V,3,43
+15526259,26,2026-09-05 16:00:00,Grêmio Novorizontino,Avaí,3,3,0,1,1,0,Casa,V,3,46
+15526268,27,2026-09-09 19:30:00,Grêmio Novorizontino,Botafogo-SP,3,1,2,1,1,0,Fora,V,3,49
+15526279,28,2026-09-13 18:30:00,Grêmio Novorizontino,Cuiabá,1,1,0,1,1,0,Casa,E,1,50
+15526292,29,2026-09-18 20:30:00,Grêmio Novorizontino,Ceará,1,1,0,2,0,2,Fora,D,0,50
+15526299,30,2026-09-25 19:30:00,Grêmio Novorizontino,São Bernardo,0,0,0,0,0,0,Casa,E,1,51
+15525991,1,2026-03-22 16:00:00,Juventude,Avaí,0,0,0,2,1,1,Fora,D,0,0
+15526004,2,2026-03-31 18:30:00,Juventude,Grêmio Novorizontino,0,0,0,0,0,0,Casa,E,1,1
+15526009,3,2026-04-04 16:00:00,Juventude,Fortaleza,1,0,1,2,2,0,Fora,D,0,1
+15526024,4,2026-04-11 16:00:00,Juventude,Goiás,2,1,1,0,0,0,Casa,V,3,4
+15526033,5,2026-04-18 20:45:00,Juventude,CRB,1,1,0,0,0,0,Fora,V,3,7
+15526045,6,2026-04-25 21:00:00,Juventude,Londrina,1,1,0,0,0,0,Casa,V,3,10
+15526052,7,2026-05-03 18:30:00,Juventude,Atlético Goianiense,0,0,0,0,0,0,Fora,E,1,11
+15526085,8,2026-05-09 21:15:00,Juventude,Criciúma,0,0,0,0,0,0,Casa,E,1,12
+15526088,9,2026-05-17 16:00:00,Juventude,Athletic Club,1,0,1,1,1,0,Fora,E,1,13
+15526106,10,2026-05-23 20:30:00,Juventude,Sport Recife,0,0,0,1,0,1,Casa,D,0,13
+15526116,11,2026-05-29 21:00:00,Juventude,América Mineiro,3,1,2,0,0,0,Casa,V,3,16
+15526120,12,2026-06-05 20:00:00,Juventude,Operário-PR,1,0,1,2,1,1,Fora,D,0,16
+15526137,13,2026-06-14 11:00:00,Juventude,Ponte Preta,3,2,1,0,0,0,Casa,V,3,19
+15526139,14,2026-06-21 17:00:00,Juventude,São Bernardo,1,0,1,0,0,0,Fora,V,3,22
+15526157,15,2026-06-28 16:00:00,Juventude,Ceará,2,2,0,0,0,0,Casa,V,3,25
+15526165,16,2026-07-05 20:30:00,Juventude,Náutico,0,0,0,0,0,0,Fora,E,1,26
+15526177,17,2026-07-10 19:00:00,Juventude,Vila Nova FC,1,1,0,0,0,0,Casa,V,3,29
+15526187,18,2026-07-17 19:00:00,Juventude,Cuiabá,2,1,1,0,0,0,Casa,V,3,32
+15526188,19,2026-07-23 21:30:00,Juventude,Botafogo-SP,2,0,2,4,2,2,Fora,D,0,32
+15526207,20,2026-07-28 19:30:00,Juventude,Avaí,1,0,1,0,0,0,Casa,V,3,35
+15526209,21,2026-08-09 16:00:00,Juventude,Grêmio Novorizontino,1,0,1,0,0,0,Fora,V,3,38
+15526227,22,2026-08-15 18:30:00,Juventude,Fortaleza,0,0,0,0,0,0,Casa,E,1,39
+15526233,23,2026-08-18 21:35:00,Juventude,Goiás,1,0,1,0,0,0,Fora,V,3,42
+15526247,24,2026-08-25 19:30:00,Juventude,CRB,2,0,2,1,1,0,Casa,V,3,45
+15526251,25,2026-09-01 19:30:00,Juventude,Londrina,0,0,0,0,0,0,Fora,E,1,46
+15526267,26,2026-09-05 18:00:00,Juventude,Atlético Goianiense,2,2,0,2,1,1,Casa,E,1,47
+15526274,27,2026-09-08 21:00:00,Juventude,Criciúma,2,0,2,0,0,0,Fora,V,3,50
+15526287,28,2026-09-13 18:00:00,Juventude,Athletic Club,0,0,0,2,0,2,Casa,D,0,50
+15526295,29,2026-09-19 16:30:00,Juventude,Sport Recife,1,1,0,2,1,1,Fora,D,0,50
+15525985,1,2026-03-22 20:00:00,Londrina,Grêmio Novorizontino,3,0,3,1,0,1,Fora,V,3,3
+15525998,2,2026-04-01 19:00:00,Londrina,Goiás,2,1,1,2,1,1,Casa,E,1,4
+15526008,3,2026-04-04 20:30:00,Londrina,Sport Recife,1,1,0,2,0,2,Casa,D,0,4
+15526020,4,2026-04-12 20:30:00,Londrina,Atlético Goianiense,1,0,1,2,1,1,Fora,D,0,4
+15526028,5,2026-04-19 16:00:00,Londrina,Ceará,0,0,0,0,0,0,Casa,E,1,5
+15526045,6,2026-04-25 21:00:00,Londrina,Juventude,0,0,0,1,1,0,Fora,D,0,5
+15526050,7,2026-05-03 16:00:00,Londrina,Operário-PR,0,0,0,3,2,1,Fora,D,0,5
+16127067,8,2026-05-12 19:30:00,Londrina,São Bernardo,1,0,1,3,2,1,Casa,D,0,5
+15526086,9,2026-05-18 19:00:00,Londrina,Ponte Preta,4,1,3,1,0,1,Fora,V,3,8
+15526101,10,2026-05-23 18:30:00,Londrina,Fortaleza,0,0,0,3,1,2,Fora,D,0,8
+15526110,11,2026-05-31 11:00:00,Londrina,Vila Nova FC,0,0,0,1,0,1,Casa,D,0,8
+15526123,12,2026-06-06 11:00:00,Londrina,Criciúma,0,0,0,1,1,0,Fora,D,0,8
+15526130,13,2026-06-15 21:00:00,Londrina,Avaí,3,1,2,2,1,1,Casa,V,3,11
+15526141,14,2026-06-20 11:00:00,Londrina,Athletic Club,2,0,2,0,0,0,Casa,V,3,14
+15526156,15,2026-06-25 20:30:00,Londrina,Cuiabá,2,2,0,2,0,2,Fora,E,1,15
+15526161,16,2026-07-04 16:00:00,Londrina,CRB,5,2,3,0,0,0,Casa,V,3,18
+15526170,17,2026-07-13 19:00:00,Londrina,América Mineiro,1,0,1,1,1,0,Fora,E,1,19
+15526181,18,2026-07-17 21:00:00,Londrina,Botafogo-SP,0,0,0,0,0,0,Casa,E,1,20
+15526195,19,2026-07-22 21:30:00,Londrina,Náutico,1,0,1,2,1,1,Fora,D,0,20
+15526201,20,2026-07-26 18:30:00,Londrina,Grêmio Novorizontino,1,1,0,4,3,1,Casa,D,0,20
+15526213,21,2026-08-10 19:30:00,Londrina,Goiás,0,0,0,1,1,0,Fora,D,0,20
+15526225,22,2026-08-14 20:30:00,Londrina,Sport Recife,1,1,0,2,2,0,Fora,D,0,20
+15526231,23,2026-08-18 19:30:00,Londrina,Atlético Goianiense,0,0,0,0,0,0,Casa,E,1,21
+15526242,24,2026-08-22 18:00:00,Londrina,Ceará,1,1,0,2,1,1,Fora,D,0,21
+15526251,25,2026-09-01 19:30:00,Londrina,Juventude,0,0,0,0,0,0,Casa,E,1,22
+15526261,26,2026-09-06 11:00:00,Londrina,Operário-PR,1,0,1,2,1,1,Casa,D,0,22
+15526269,27,2026-09-10 20:50:00,Londrina,São Bernardo,2,1,1,1,1,0,Fora,V,3,25
+15526281,28,2026-09-15 19:30:00,Londrina,Ponte Preta,6,3,3,0,0,0,Casa,V,3,28
+15526291,29,2026-09-20 18:30:00,Londrina,Fortaleza,1,0,1,2,1,1,Casa,D,0,28
+15526307,30,2026-09-25 20:30:00,Londrina,Vila Nova FC,0,0,0,2,1,1,Fora,D,0,28
+15525992,1,2026-03-22 16:00:00,Náutico,Criciúma,0,0,0,1,1,0,Casa,D,0,0
+15526000,2,2026-04-01 19:00:00,Náutico,Atlético Goianiense,2,0,2,1,1,0,Fora,V,3,3
+15526012,3,2026-04-04 18:00:00,Náutico,Ponte Preta,1,0,1,0,0,0,Casa,V,3,6
+15526019,4,2026-04-11 20:30:00,Náutico,Ceará,0,0,0,1,0,1,Fora,D,0,6
+15526032,5,2026-04-18 18:00:00,Náutico,São Bernardo,0,0,0,3,0,3,Casa,D,0,6
+16023898,6,2026-04-27 19:00:00,Náutico,Athletic Club,1,0,1,0,0,0,Fora,V,3,9
+15526047,7,2026-05-02 16:00:00,Náutico,Botafogo-SP,1,0,1,1,1,0,Fora,E,1,10
+15526083,8,2026-05-10 16:00:00,Náutico,América Mineiro,4,2,2,0,0,0,Casa,V,3,13
+15526089,9,2026-05-16 16:00:00,Náutico,Operário-PR,6,2,4,2,1,1,Fora,V,3,16
+15526104,10,2026-05-22 19:00:00,Náutico,Cuiabá,1,0,1,0,0,0,Casa,V,3,19
+15526114,11,2026-05-30 20:30:00,Náutico,Sport Recife,0,0,0,2,1,1,Fora,D,0,19
+15526124,12,2026-06-09 19:00:00,Náutico,Fortaleza,0,0,0,1,1,0,Casa,D,0,19
+15526135,13,2026-06-14 19:00:00,Náutico,Grêmio Novorizontino,2,1,1,2,0,2,Fora,E,1,20
+15526147,14,2026-06-20 19:00:00,Náutico,Vila Nova FC,3,1,2,4,4,0,Fora,D,0,20
+15526155,15,2026-06-28 18:30:00,Náutico,Goiás,0,0,0,1,1,0,Casa,D,0,20
+15526165,16,2026-07-05 20:30:00,Náutico,Juventude,0,0,0,0,0,0,Casa,E,1,21
+15526174,17,2026-07-12 16:00:00,Náutico,Avaí,0,0,0,2,1,1,Fora,D,0,21
+15526186,18,2026-07-16 20:00:00,Náutico,CRB,1,0,1,2,1,1,Fora,D,0,21
+15526195,19,2026-07-22 21:30:00,Náutico,Londrina,2,1,1,1,0,1,Casa,V,3,24
+15526204,20,2026-07-26 16:00:00,Náutico,Criciúma,0,0,0,0,0,0,Fora,E,1,25
+15526215,21,2026-08-09 16:00:00,Náutico,Atlético Goianiense,1,1,0,1,0,1,Casa,E,1,26
+15526218,22,2026-08-14 19:30:00,Náutico,Ponte Preta,1,0,1,1,1,0,Fora,E,1,27
+15526235,23,2026-08-18 21:30:00,Náutico,Ceará,1,1,0,0,0,0,Casa,V,3,30
+15526239,24,2026-08-23 16:00:00,Náutico,São Bernardo,1,0,1,1,0,1,Fora,E,1,31
+15526255,25,2026-08-28 20:30:00,Náutico,Athletic Club,2,0,2,1,1,0,Casa,V,3,34
+15526265,26,2026-09-03 20:00:00,Náutico,Botafogo-SP,1,0,1,0,0,0,Casa,V,3,37
+15526270,27,2026-09-09 20:30:00,Náutico,América Mineiro,1,0,1,2,2,0,Fora,D,0,37
+15526285,28,2026-09-15 19:30:00,Náutico,Operário-PR,3,1,2,3,1,2,Casa,E,1,38
+15526296,29,2026-09-21 21:30:00,Náutico,Cuiabá,0,0,0,3,1,2,Fora,D,0,38
+15526305,30,2026-09-26 16:30:00,Náutico,Sport Recife,3,1,2,1,0,1,Casa,V,3,41
+15525987,1,2026-03-21 18:15:00,Operário-PR,Atlético Goianiense,1,1,0,0,0,0,Casa,V,3,3
+15525996,2,2026-04-02 19:00:00,Operário-PR,São Bernardo,2,1,1,1,1,0,Fora,V,3,6
+15526011,3,2026-04-05 16:00:00,Operário-PR,Avaí,0,0,0,0,0,0,Fora,E,1,7
+15526018,4,2026-04-12 18:00:00,Operário-PR,Cuiabá,0,0,0,0,0,0,Casa,E,1,8
+15526034,5,2026-04-18 18:30:00,Operário-PR,Vila Nova FC,1,1,0,2,1,1,Fora,D,0,8
+15526039,6,2026-04-26 18:00:00,Operário-PR,Fortaleza,0,0,0,0,0,0,Casa,E,1,9
+15526050,7,2026-05-03 16:00:00,Operário-PR,Londrina,3,2,1,0,0,0,Casa,V,3,12
+15526084,8,2026-05-09 20:30:00,Operário-PR,CRB,0,0,0,3,2,1,Fora,D,0,12
+15526089,9,2026-05-16 16:00:00,Operário-PR,Náutico,2,1,1,6,2,4,Casa,D,0,12
+15526100,10,2026-05-24 20:30:00,Operário-PR,Criciúma,1,0,1,1,0,1,Casa,E,1,13
+15526111,11,2026-05-31 16:00:00,Operário-PR,Ceará,2,0,2,1,1,0,Fora,V,3,16
+15526120,12,2026-06-05 20:00:00,Operário-PR,Juventude,2,1,1,1,0,1,Casa,V,3,19
+15526127,13,2026-06-14 19:00:00,Operário-PR,Botafogo-SP,1,1,0,2,0,2,Fora,D,0,19
+16311743,14,2026-06-21 18:30:00,Operário-PR,Goiás,3,3,0,0,0,0,Fora,V,3,22
+15526151,15,2026-06-27 11:00:00,Operário-PR,América Mineiro,1,0,1,0,0,0,Casa,V,3,25
+15526160,16,2026-07-07 20:00:00,Operário-PR,Athletic Club,1,0,1,0,0,0,Fora,V,3,28
+15526171,17,2026-07-12 11:00:00,Operário-PR,Grêmio Novorizontino,2,1,1,1,1,0,Casa,V,3,31
+15526185,18,2026-07-18 16:00:00,Operário-PR,Sport Recife,2,1,1,2,1,1,Fora,E,1,32
+15526191,19,2026-07-22 19:30:00,Operário-PR,Ponte Preta,3,1,2,2,1,1,Casa,V,3,35
+16477939,20,2026-07-27 19:30:00,Operário-PR,Atlético Goianiense,1,1,0,3,2,1,Fora,D,0,35
+15526211,21,2026-08-07 19:30:00,Operário-PR,São Bernardo,1,0,1,3,1,2,Casa,D,0,35
+15526221,22,2026-08-16 11:00:00,Operário-PR,Avaí,1,0,1,2,0,2,Casa,D,0,35
+15526236,23,2026-08-19 20:30:00,Operário-PR,Cuiabá,0,0,0,1,0,1,Fora,D,0,35
+15526241,24,2026-08-23 18:00:00,Operário-PR,Vila Nova FC,0,0,0,0,0,0,Casa,E,1,36
+15526252,25,2026-08-31 19:30:00,Operário-PR,Fortaleza,1,1,0,1,1,0,Fora,E,1,37
+15526261,26,2026-09-06 11:00:00,Operário-PR,Londrina,2,1,1,1,0,1,Fora,V,3,40
+15526271,27,2026-09-09 20:30:00,Operário-PR,CRB,3,2,1,0,0,0,Casa,V,3,43
+15526285,28,2026-09-15 19:30:00,Operário-PR,Náutico,3,1,2,3,1,2,Fora,E,1,44
+15526294,29,2026-09-22 19:30:00,Operário-PR,Criciúma,2,1,1,0,0,0,Fora,V,3,47
+15526301,30,2026-09-26 16:30:00,Operário-PR,Ceará,2,1,1,2,0,2,Casa,E,1,48
+15525986,1,2026-03-22 18:00:00,Ponte Preta,Athletic Club,1,1,0,2,2,0,Fora,D,0,0
+15525995,2,2026-04-01 21:00:00,Ponte Preta,Ceará,1,0,1,1,0,1,Casa,E,1,1
+15526012,3,2026-04-04 18:00:00,Ponte Preta,Náutico,0,0,0,1,0,1,Fora,D,0,1
+15526015,4,2026-04-11 18:00:00,Ponte Preta,Vila Nova FC,0,0,0,1,1,0,Casa,D,0,1
+15526031,5,2026-04-18 20:30:00,Ponte Preta,Avaí,2,1,1,1,1,0,Fora,V,3,4
+15526035,6,2026-04-24 20:00:00,Ponte Preta,América Mineiro,1,1,0,0,0,0,Casa,V,3,7
+15526048,7,2026-05-03 16:00:00,Ponte Preta,São Bernardo,0,0,0,3,1,2,Fora,D,0,7
+15526075,8,2026-05-09 18:30:00,Ponte Preta,Sport Recife,1,1,0,3,2,1,Casa,D,0,7
+15526086,9,2026-05-18 19:00:00,Ponte Preta,Londrina,1,0,1,4,1,3,Casa,D,0,7
+15526105,10,2026-05-24 16:30:00,Ponte Preta,CRB,2,2,0,4,1,3,Fora,D,0,7
+15526107,11,2026-06-01 19:00:00,Ponte Preta,Botafogo-SP,0,0,0,0,0,0,Casa,E,1,8
+15526117,12,2026-06-09 19:00:00,Ponte Preta,Cuiabá,1,1,0,2,1,1,Casa,D,0,8
+15526137,13,2026-06-14 11:00:00,Ponte Preta,Juventude,0,0,0,3,2,1,Fora,D,0,8
+15526138,14,2026-06-22 20:00:00,Ponte Preta,Grêmio Novorizontino,0,0,0,2,1,1,Casa,D,0,8
+15526153,15,2026-06-28 16:00:00,Ponte Preta,Atlético Goianiense,0,0,0,2,2,0,Fora,D,0,8
+15526162,16,2026-07-02 21:00:00,Ponte Preta,Fortaleza,0,0,0,2,0,2,Fora,D,0,8
+15526168,17,2026-07-08 20:00:00,Ponte Preta,Criciúma,1,0,1,2,1,1,Casa,D,0,8
+15526178,18,2026-07-18 16:00:00,Ponte Preta,Goiás,1,1,0,2,2,0,Casa,D,0,8
+15526191,19,2026-07-22 19:30:00,Ponte Preta,Operário-PR,2,1,1,3,1,2,Fora,D,0,8
+15526198,20,2026-07-28 19:30:00,Ponte Preta,Athletic Club,1,1,0,1,0,1,Casa,E,1,9
+15526212,21,2026-08-07 20:30:00,Ponte Preta,Ceará,0,0,0,2,1,1,Fora,D,0,9
+15526218,22,2026-08-14 19:30:00,Ponte Preta,Náutico,1,1,0,1,0,1,Casa,E,1,10
+15526237,23,2026-08-19 20:30:00,Ponte Preta,Vila Nova FC,0,0,0,6,3,3,Fora,D,0,10
+15526238,24,2026-08-23 16:00:00,Ponte Preta,Avaí,0,0,0,2,0,2,Casa,D,0,10
+15526250,25,2026-08-30 16:00:00,Ponte Preta,América Mineiro,0,0,0,2,0,2,Fora,D,0,10
+15526258,26,2026-09-06 18:30:00,Ponte Preta,São Bernardo,0,0,0,2,1,1,Casa,D,0,10
+15526275,27,2026-09-10 21:30:00,Ponte Preta,Sport Recife,0,0,0,2,2,0,Fora,D,0,10
+15526281,28,2026-09-15 19:30:00,Ponte Preta,Londrina,0,0,0,6,3,3,Fora,D,0,10
+15526288,29,2026-09-20 11:00:00,Ponte Preta,CRB,1,1,0,0,0,0,Casa,V,3,13
+15525993,1,2026-03-21 20:30:00,Sport Recife,Cuiabá,0,0,0,0,0,0,Fora,E,1,1
+15526002,2,2026-04-01 19:00:00,Sport Recife,Vila Nova FC,1,0,1,1,0,1,Casa,E,1,2
+15526008,3,2026-04-04 20:30:00,Sport Recife,Londrina,2,0,2,1,1,0,Fora,V,3,5
+15526022,4,2026-04-11 18:00:00,Sport Recife,Avaí,2,1,1,2,1,1,Casa,E,1,6
+15526027,5,2026-04-18 18:00:00,Sport Recife,América Mineiro,0,0,0,0,0,0,Fora,E,1,7
+15526043,6,2026-04-25 20:30:00,Sport Recife,Grêmio Novorizontino,1,0,1,0,0,0,Casa,V,3,10
+15526072,7,2026-05-03 18:00:00,Sport Recife,Ceará,2,0,2,0,0,0,Casa,V,3,13
+15526075,8,2026-05-09 18:30:00,Sport Recife,Ponte Preta,3,2,1,1,1,0,Fora,V,3,16
+15526093,9,2026-05-17 20:30:00,Sport Recife,CRB,1,0,1,2,1,1,Casa,D,0,16
+15526106,10,2026-05-23 20:30:00,Sport Recife,Juventude,1,0,1,0,0,0,Fora,V,3,19
+15526114,11,2026-05-30 20:30:00,Sport Recife,Náutico,2,1,1,0,0,0,Casa,V,3,22
+15526118,12,2026-06-10 21:00:00,Sport Recife,Athletic Club,1,0,1,1,0,1,Casa,E,1,23
+15526128,13,2026-06-14 11:00:00,Sport Recife,São Bernardo,0,0,0,0,0,0,Fora,E,1,24
+15526145,14,2026-06-18 21:00:00,Sport Recife,Atlético Goianiense,1,1,0,1,0,1,Casa,E,1,25
+15526152,15,2026-06-28 18:30:00,Sport Recife,Fortaleza,1,0,1,2,1,1,Fora,D,0,25
+15526164,16,2026-07-04 16:00:00,Sport Recife,Criciúma,0,0,0,1,1,0,Fora,D,0,25
+15526175,17,2026-07-10 20:00:00,Sport Recife,Botafogo-SP,3,0,3,3,2,1,Casa,E,1,26
+15526185,18,2026-07-18 16:00:00,Sport Recife,Operário-PR,2,1,1,2,1,1,Casa,E,1,27
+15526193,19,2026-07-22 20:30:00,Sport Recife,Goiás,1,1,0,1,0,1,Fora,E,1,28
+15526205,20,2026-07-27 19:30:00,Sport Recife,Cuiabá,1,0,1,1,0,1,Casa,E,1,29
+15526217,21,2026-08-08 16:00:00,Sport Recife,Vila Nova FC,1,1,0,0,0,0,Fora,V,3,32
+15526225,22,2026-08-14 20:30:00,Sport Recife,Londrina,2,2,0,1,1,0,Casa,V,3,35
+15526234,23,2026-08-19 19:30:00,Sport Recife,Avaí,1,0,1,2,0,2,Fora,D,0,35
+15526245,24,2026-08-24 19:30:00,Sport Recife,América Mineiro,3,2,1,0,0,0,Casa,V,3,38
+15526249,25,2026-08-28 20:30:00,Sport Recife,Grêmio Novorizontino,1,0,1,2,1,1,Fora,D,0,38
+15526262,26,2026-09-05 18:30:00,Sport Recife,Ceará,1,0,1,2,0,2,Fora,D,0,38
+15526275,27,2026-09-10 21:30:00,Sport Recife,Ponte Preta,2,2,0,0,0,0,Casa,V,3,41
+15526286,28,2026-09-15 21:00:00,Sport Recife,CRB,1,0,1,2,1,1,Fora,D,0,41
+15526295,29,2026-09-19 16:30:00,Sport Recife,Juventude,2,1,1,1,1,0,Casa,V,3,44
+15526305,30,2026-09-26 16:30:00,Sport Recife,Náutico,1,0,1,3,1,2,Fora,D,0,44
+15525988,1,2026-03-21 18:00:00,São Bernardo,Ceará,1,0,1,1,1,0,Fora,E,1,1
+15525996,2,2026-04-02 19:00:00,São Bernardo,Operário-PR,1,1,0,2,1,1,Casa,D,0,1
+15526005,3,2026-04-05 20:30:00,São Bernardo,Botafogo-SP,2,0,2,1,1,0,Fora,V,3,4
+15526016,4,2026-04-12 18:00:00,São Bernardo,Fortaleza,0,0,0,1,0,1,Casa,D,0,4
+15526032,5,2026-04-18 18:00:00,São Bernardo,Náutico,3,0,3,0,0,0,Fora,V,3,7
+15526037,6,2026-04-26 16:00:00,São Bernardo,Goiás,1,0,1,0,0,0,Casa,V,3,10
+15526048,7,2026-05-03 16:00:00,São Bernardo,Ponte Preta,3,1,2,0,0,0,Casa,V,3,13
+16127067,8,2026-05-12 19:30:00,São Bernardo,Londrina,3,2,1,1,0,1,Fora,V,3,16
+15526087,9,2026-05-16 16:00:00,São Bernardo,América Mineiro,1,0,1,1,1,0,Casa,E,1,17
+15526102,10,2026-05-24 16:00:00,São Bernardo,Atlético Goianiense,1,0,1,0,0,0,Fora,V,3,20
+15526108,11,2026-05-31 11:00:00,São Bernardo,Grêmio Novorizontino,1,1,0,1,1,0,Casa,E,1,21
+15526125,12,2026-06-07 16:00:00,São Bernardo,CRB,3,1,2,2,1,1,Fora,V,3,24
+15526128,13,2026-06-14 11:00:00,São Bernardo,Sport Recife,0,0,0,0,0,0,Casa,E,1,25
+15526139,14,2026-06-21 17:00:00,São Bernardo,Juventude,0,0,0,1,0,1,Casa,D,0,25
+15526154,15,2026-06-27 16:00:00,São Bernardo,Criciúma,0,0,0,1,1,0,Fora,D,0,25
+15526167,16,2026-07-06 19:00:00,São Bernardo,Vila Nova FC,1,0,1,2,1,1,Fora,D,0,25
+15526169,17,2026-07-12 16:00:00,São Bernardo,Cuiabá,2,2,0,2,2,0,Casa,E,1,26
+15526179,18,2026-07-17 19:00:00,São Bernardo,Avaí,1,1,0,1,0,1,Casa,E,1,27
+15526190,19,2026-07-23 19:30:00,São Bernardo,Athletic Club,1,1,0,2,1,1,Fora,D,0,27
+15526199,20,2026-07-26 16:00:00,São Bernardo,Ceará,3,1,2,4,0,4,Casa,D,0,27
+15526211,21,2026-08-07 19:30:00,São Bernardo,Operário-PR,3,1,2,1,0,1,Fora,V,3,30
+15526219,22,2026-08-14 19:30:00,São Bernardo,Botafogo-SP,0,0,0,1,0,1,Casa,D,0,30
+15526232,23,2026-08-19 19:30:00,São Bernardo,Fortaleza,1,1,0,1,1,0,Fora,E,1,31
+15526239,24,2026-08-23 16:00:00,São Bernardo,Náutico,1,0,1,1,0,1,Casa,E,1,32
+15526253,25,2026-08-28 19:30:00,São Bernardo,Goiás,1,0,1,2,1,1,Fora,D,0,32
+15526258,26,2026-09-06 18:30:00,São Bernardo,Ponte Preta,2,1,1,0,0,0,Fora,V,3,35
+15526269,27,2026-09-10 20:50:00,São Bernardo,Londrina,1,1,0,2,1,1,Casa,D,0,35
+15526280,28,2026-09-14 19:30:00,São Bernardo,América Mineiro,2,0,2,0,0,0,Fora,V,3,38
+15526289,29,2026-09-18 21:00:00,São Bernardo,Atlético Goianiense,1,0,1,0,0,0,Casa,V,3,41
+15526299,30,2026-09-25 19:30:00,São Bernardo,Grêmio Novorizontino,0,0,0,0,0,0,Fora,E,1,42
+15525994,1,2026-03-21 17:00:00,Vila Nova FC,CRB,2,0,2,2,1,1,Casa,E,1,1
+15526002,2,2026-04-01 19:00:00,Vila Nova FC,Sport Recife,1,0,1,1,0,1,Fora,E,1,2
+15526014,3,2026-04-04 20:00:00,Vila Nova FC,Atlético Goianiense,2,0,2,1,1,0,Casa,V,3,5
+15526015,4,2026-04-11 18:00:00,Vila Nova FC,Ponte Preta,1,1,0,0,0,0,Fora,V,3,8
+15526034,5,2026-04-18 18:30:00,Vila Nova FC,Operário-PR,2,1,1,1,1,0,Casa,V,3,11
+15526040,6,2026-04-26 18:00:00,Vila Nova FC,Ceará,3,1,2,3,3,0,Fora,E,1,12
+15526074,7,2026-05-04 19:00:00,Vila Nova FC,Athletic Club,1,0,1,1,0,1,Casa,E,1,13
+15526081,8,2026-05-09 16:00:00,Vila Nova FC,Goiás,0,0,0,1,0,1,Fora,D,0,13
+15526095,9,2026-05-17 18:00:00,Vila Nova FC,Avaí,2,2,0,0,0,0,Casa,V,3,16
+15526099,10,2026-05-24 18:30:00,Vila Nova FC,América Mineiro,2,0,2,1,1,0,Fora,V,3,19
+15526110,11,2026-05-31 11:00:00,Vila Nova FC,Londrina,1,0,1,0,0,0,Fora,V,3,22
+15526126,12,2026-06-08 20:00:00,Vila Nova FC,Botafogo-SP,1,1,0,0,0,0,Casa,V,3,25
+15526136,13,2026-06-14 17:00:00,Vila Nova FC,Cuiabá,0,0,0,1,0,1,Fora,D,0,25
+15526147,14,2026-06-20 19:00:00,Vila Nova FC,Náutico,4,4,0,3,1,2,Casa,V,3,28
+15526149,15,2026-06-26 19:00:00,Vila Nova FC,Grêmio Novorizontino,1,1,0,2,1,1,Fora,D,0,28
+15526167,16,2026-07-06 19:00:00,Vila Nova FC,São Bernardo,2,1,1,1,0,1,Casa,V,3,31
+15526177,17,2026-07-10 19:00:00,Vila Nova FC,Juventude,0,0,0,1,1,0,Fora,D,0,31
+15526184,18,2026-07-18 16:00:00,Vila Nova FC,Criciúma,0,0,0,2,1,1,Fora,D,0,31
+15526197,19,2026-07-21 21:35:00,Vila Nova FC,Fortaleza,2,2,0,1,0,1,Casa,V,3,34
+15526206,20,2026-07-27 19:30:00,Vila Nova FC,CRB,0,0,0,2,2,0,Fora,D,0,34
+15526217,21,2026-08-08 16:00:00,Vila Nova FC,Sport Recife,0,0,0,1,1,0,Casa,D,0,34
+15526223,22,2026-08-15 16:00:00,Vila Nova FC,Atlético Goianiense,2,1,1,0,0,0,Fora,V,3,37
+15526237,23,2026-08-19 20:30:00,Vila Nova FC,Ponte Preta,6,3,3,0,0,0,Casa,V,3,40
+15526241,24,2026-08-23 18:00:00,Vila Nova FC,Operário-PR,0,0,0,0,0,0,Fora,E,1,41
+15526257,25,2026-08-30 18:30:00,Vila Nova FC,Ceará,2,1,1,0,0,0,Casa,V,3,44
+15526260,26,2026-09-04 20:30:00,Vila Nova FC,Athletic Club,0,0,0,5,3,2,Fora,D,0,44
+15526277,27,2026-09-10 19:30:00,Vila Nova FC,Goiás,2,0,2,0,0,0,Casa,V,3,47
+15526284,28,2026-09-14 21:30:00,Vila Nova FC,Avaí,1,1,0,1,1,0,Fora,E,1,48
+15526297,29,2026-09-18 19:30:00,Vila Nova FC,América Mineiro,1,1,0,0,0,0,Casa,V,3,51
+15526307,30,2026-09-25 20:30:00,Vila Nova FC,Londrina,2,1,1,0,0,0,Casa,V,3,54
