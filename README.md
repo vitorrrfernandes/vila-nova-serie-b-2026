@@ -25,7 +25,7 @@ flowchart LR
 
 1. **Coleta (`coleta.py`):** baixa os jogos das 38 rodadas pela SportAPI (RapidAPI). Rodadas já encerradas ficam em cache, então as atualizações só gastam requisições nas rodadas com jogos pendentes.
 2. **Tratamento (`analise.py`):** filtra os jogos encerrados, valida os dados e transforma a tabela para o formato longo.
-3. **Visualização (`vila-nova-serie-b-2026.pbix`):** relatório no Power BI com páginas de visão geral, mando de campo, rivais e classificação.
+3. **Visualização (`vila-nova-serie-b-2026.pbix`):** relatório no Power BI com segmentações de time, mando e rodada, cartões de KPIs, evolução dos pontos, resultados, gols por tempo e tabela de jogos.
 
 ## Tratamento e validação dos dados
 
