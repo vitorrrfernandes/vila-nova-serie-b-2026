@@ -2,7 +2,7 @@
 
 Dashboard da campanha do Vila Nova no Campeonato Brasileiro Série B 2026, com comparação com os rivais goianos Atlético-GO e Goiás. O projeto cobre o fluxo completo de dados: coleta via API REST, tratamento e validação com pandas, e visualização no Power BI.
 
-> Dados até a 30ª rodada (jogos disputados entre 21/03 e 25/09/2026).
+> Dados até a 30ª rodada (jogos disputados entre 21/03 e 27/09/2026; dois jogos da 30ª rodada ainda não tinham sido disputados).
 
 ![Visão geral do dashboard](images/visao-geral.png)
 
@@ -11,7 +11,7 @@ Dashboard da campanha do Vila Nova no Campeonato Brasileiro Série B 2026, com c
 - **O Vila lidera a Série B com 54 pontos e 60% de aproveitamento**, 2 pontos à frente do 2º colocado.
 - **A campanha tem duas caras.** Em casa, o aproveitamento é de **84,4%** (12 vitórias, 2 empates e 1 derrota). Fora, cai para **35,6%**. São 48,9 pontos percentuais de diferença, e **70,4% dos pontos** vieram como mandante.
 - **O saldo de gols confirma o padrão:** +20 em casa (31 a 11) e -8 fora (12 a 20).
-- **O Atlético-GO é o rival mais regular**, com 62,2% em casa e 46,7% fora (15,6 p.p. de diferença), enquanto o Goiás repete o perfil do Vila em escala menor.
+- **O Atlético-GO é o rival mais regular**, com 62,2% em casa e 46,7% fora (15,6 p.p. de diferença). O Goiás tem uma diferença parecida (55,6% em casa e 37,8% fora, 17,8 p.p.), mas rende menos nos dois mandos.
 - **Não há um "time de segundo tempo":** os gols do Vila se dividem quase igualmente (22 no 1º tempo, 21 no 2º), e o mesmo vale para os rivais.
 
 ## Fluxo de dados
@@ -61,7 +61,7 @@ As métricas são sempre calculadas a partir das somas de pontos e jogos, e não
 
 ```
 ├── coleta.py                   # coleta dos dados na API
-├── analise.py               # tratamento, validação e exportação
+├── analise.py                  # tratamento, validação e exportação
 ├── data/processed/
 │   └── jogos_longo.csv         # base usada no Power BI
 ├── vila-nova-serie-b-2026.pbix # relatório
